@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Ehawk82/RPS-Mod/issues"
   },
-  "homepage": "https://github.com/Ehawk82/RPS-Mod#readme"
+  "homepage": "https://github.com/Ehawk82/RPS-Mod#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

@@ -1,0 +1,22 @@
+{
+  "name": "rps-mod",
+  "version": "1.0.0",
+  "description": "Rock Paper Scissors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehawk82/RPS-Mod.git"
+  },
+  "keywords": [
+    "RPS"
+  ],
+  "author": "Jason Graziano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ehawk82/RPS-Mod/issues"
+  },
+  "homepage": "https://github.com/Ehawk82/RPS-Mod#readme"
+}
